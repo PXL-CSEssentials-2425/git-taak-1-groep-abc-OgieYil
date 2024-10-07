@@ -46,27 +46,5 @@
                MouseEnter="Blue_MouseEnter"
                MouseLeave="Image_MouseLeave"/>
 
-
-        <TextBlock Name="ColorCodeText" 
-                   FontSize="16" 
-                   HorizontalAlignment="Center" 
-                   VerticalAlignment="Bottom" 
-                   Margin="10" 
-                   Text="Klik op een kleur om de code te zien."
-                   MouseEnter="Blue_MouseEnter"
-                   MouseLeave="Image_MouseLeave"/>
-        
-        
-        <TextBlock Name="ColorInfoText" 
-                   FontSize="16" 
-                   HorizontalAlignment="Center" 
-                   VerticalAlignment="Bottom" 
-                   Margin="10, 50, 10, 30" 
-                   Text="Klik op een kleur voor meer informatie."
-                   MouseEnter="Blue_MouseEnter"
-                   MouseLeave="Image_MouseLeave"/>
-
-
-
     </Grid>
 </Window>
