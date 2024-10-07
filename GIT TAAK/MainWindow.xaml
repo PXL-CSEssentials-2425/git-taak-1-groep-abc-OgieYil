@@ -22,29 +22,5 @@
                HorizontalAlignment="Right" VerticalAlignment="Top"
                Margin="0, 10,10,0"/>
 
-        <Image Name="Groen"
-               Source="Groen.png" 
-               Margin="235,97,439,225"
-               MouseEnter="Green_MouseEnter" 
-               MouseLeave="Image_MouseLeave"/>
-
-        <Image Name="Rood"
-               Source="Rood.png" 
-               Margin="236,209,439,100"
-               MouseEnter="Red_MouseEnter"
-               MouseLeave="Image_MouseLeave"/>
-
-        <Image Name="Geel" 
-               Source="Geel.png"
-               Margin="409,111,241,239"
-               MouseEnter="Yellow_MouseEnter"
-               MouseLeave="Image_MouseLeave"/>
-
-        <Image Name="Blauw" 
-               Source="Blauw.png"
-               Margin="422,228,253,119"
-               MouseEnter="Blue_MouseEnter"
-               MouseLeave="Image_MouseLeave"/>
-
     </Grid>
 </Window>
